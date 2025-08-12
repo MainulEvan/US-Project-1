@@ -17,8 +17,7 @@ I have conducted **Full-Charge Bookkeeping** for this 3-month project, which inc
 ## Project 1: Project conducted in QuickBooks Online
 - **Client**: US-based Ecommerce Business  
 - **Task**: Complete Bookkeeping in QuickBooks Online, and bank reconciliation
-- **Files**: [Balance Sheet (PDF)](https://github.com/MainulEvan/UK-Project-1/blob/main/BalanceSheet%20(3).pdf)
-- **Files**: [Profit & Loss Statement (PDF)](https://github.com/MainulEvan/UK-Project-1/blob/main/ProfitandLoss%20(3).pdf)
-- **Files**: [Cash Flow Statement (PDF)](https://github.com/MainulEvan/UK-Project-1/blob/main/StatementofCashFlows.pdf)
-- **Files**: [Accounts Receivables Aging Summary (Image)](https://github.com/MainulEvan/UK-Project-1/blob/main/Account%20Receivable%20Aging%20Summary.png)
-- **Files**: [Accounts Payables Aging Summary (Image)](https://github.com/MainulEvan/UK-Project-1/blob/main/Accounts%20Payable%20Aging%20Sumamry.png)
+- **Files**: [Balance Sheet (PDF)](https://github.com/MainulEvan/US-Project-1/blob/main/BalanceSheet%20(4).pdf)
+- **Files**: [Profit & Loss Statement (PDF)](https://github.com/MainulEvan/US-Project-1/blob/main/ProfitandLoss%20(3).pdf)
+- **Files**: [Cash Flow Statement (PDF)](https://github.com/MainulEvan/US-Project-1/blob/main/StatementofCashFlows.pdf)
+- **Files**: [General Ledger (PDF)](https://github.com/MainulEvan/US-Project-1/blob/main/GeneralLedger%20(1).pdf)
